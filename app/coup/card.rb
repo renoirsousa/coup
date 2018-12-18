@@ -6,7 +6,7 @@ class Card
       'Capitao',
       'Condesa',
       'Assassino',
-      'Inquisido',
+      'Inquisidor',
       'Embaixador'
     ]
   end
